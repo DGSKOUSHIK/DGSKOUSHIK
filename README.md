@@ -59,26 +59,6 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=DGSKOUSHIK&theme=gruvbox&hide_border=false"
-    height="190"
-  />
-</p>
-
-
-
-# 🔥 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DGSKOUSHIK&theme=github-compact"
-    width="95%"
-  />
-</p>
-
 ---
 
 <p align="center">
