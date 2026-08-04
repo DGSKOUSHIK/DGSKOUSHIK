@@ -1,11 +1,10 @@
 # 💫 About Me
 
-🔭 Building practical AI, automation, and full-stack applications  
-👯 Open to collaborating on impactful software and open-source projects  
-🤝 Interested in scalable backend systems and cloud deployment  
-🌱 Exploring Java, Python, React, Node.js, MongoDB, and Machine Learning  
-💬 Ask me about AI/ML, APIs, automation, dashboards, and web development  
-⚡ I enjoy turning complex problems into simple and useful solutions  
+👋 I am **Koushik Daggupati**, a final-year B.Tech student at **Vellore Institute of Technology, Vellore**, graduating in **2027**  
+💼 Completed a **Software Development Internship at Siemens, Goa**  
+🔭 Building practical applications in **AI, automation, and full-stack development**  
+🌱 Skilled in **Java, Python, React, Node.js, MongoDB, Machine Learning, Power BI, and Grafana**  
+⚡ Interested in solving real-world problems through scalable and useful technology  
 
 ## 🌐 Connect With Me
 
