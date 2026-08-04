@@ -23,13 +23,6 @@
 - Explored anomaly-detection and predictive-maintenance techniques to identify abnormal machine behavior.
 - Worked with **Power BI, Power Automate, SAP ERP, AWS, NAS/RAID systems, and Acronis Cyber Protect**.
 
-# 🛠️ Skills
-
-- **Languages:** Java, Python, C, C++, SQL, JavaScript
-- **AI & Data Science:** Machine Learning, Deep Learning, CNN, NLP, LLMs, RAG, Data Analysis, Predictive Modelling
-- **Automation & Analytics:** Node-RED, n8n, Power BI, Grafana, Power Automate
-- **Cloud & DevOps:** AWS, Azure, Docker, Git, GitHub, CI/CD
-
 # 👨‍💻 Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
