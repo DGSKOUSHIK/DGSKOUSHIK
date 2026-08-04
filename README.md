@@ -11,6 +11,25 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushik-daggupati-811956420)
 
+# 💼 Internship Experience
+
+## <img src="https://cdn.simpleicons.org/siemens/009999" width="28" height="28" align="center"> Software Development Intern | SIEMENS | Goa
+
+**May 2026 – July 2026**
+
+- Developed **Node-RED flows** to ingest and process real-time data from PLCs and edge devices for industrial monitoring.
+- Built **Grafana dashboards** to visualize equipment parameters, operational trends, and live system data.
+- Automated email alerts, task routing, data integration, and process workflows using **n8n**.
+- Explored anomaly-detection and predictive-maintenance techniques to identify abnormal machine behavior.
+- Worked with **Power BI, Power Automate, SAP ERP, AWS, NAS/RAID systems, and Acronis Cyber Protect**.
+
+# 🛠️ Skills
+
+- **Languages:** Java, Python, C, C++, SQL, JavaScript
+- **AI & Data Science:** Machine Learning, Deep Learning, CNN, NLP, LLMs, RAG, Data Analysis, Predictive Modelling
+- **Automation & Analytics:** Node-RED, n8n, Power BI, Grafana, Power Automate
+- **Cloud & DevOps:** AWS, Azure, Docker, Git, GitHub, CI/CD
+
 # 👨‍💻 Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -59,10 +78,8 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
----
+# 📜 Certifications
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=DGSKOUSHIK&label=Profile%20Views&color=orange&style=flat"
-  />
-</p>
+- **Oracle OCI 2025 Generative AI Professional** – Certified in generative AI, LLMs, prompt engineering, and OCI AI services.
+- **Oracle OCI 2025 Data Science Professional** – Certified in machine learning, model development, and OCI Data Science.
+- **Data Analytics using Power BI** – Built skills in dashboarding, KPI tracking, data visualization, and business reporting.
