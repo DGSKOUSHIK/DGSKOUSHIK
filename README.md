@@ -1,5 +1,5 @@
 # 💫 About Me 
-[![Portfolio] (https://portfolio-virid-nine-76.vercel.app/)
+Portfolio (https://portfolio-virid-nine-76.vercel.app/)
 
 👋 I am **Koushik Daggupati**, a final-year B.Tech student at **Vellore Institute of Technology, Vellore**, graduating in **2027**  
 💼 Completed a **Software Development Internship at Siemens, Goa**  
